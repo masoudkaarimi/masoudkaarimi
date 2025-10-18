@@ -19,8 +19,7 @@
 
 ### About Me
 
-As a web developer with over 4.5 years of experience, I began my career with a strong background in front-end development using **React & Next.js**. I have since guided my path toward the back-end, deepening my expertise in **Python & Django** to design efficient and scalable systems. My ultimate goal is to contribute to building service-oriented (**SaaS**) businesses by architecting and developing robust, optimized solutions.
-
+As a web developer with over 4.5 years of experience, I began my career with a strong background in front-end development using **React & Next.js**. I have since guided my path toward the back-end, deepening my expertise in **Python & Django** to design efficient and scalable systems. I am passionate about architecting and developing robust, high-performance web applications and enjoy tackling complex technical challenges.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
